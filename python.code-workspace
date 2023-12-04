@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "python",
+			"path": "../../../Desktop/python"
+		},
+		{
+			"name": "practic4",
+			"path": "../../../Desktop/practic4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "python"
+	}
+}
